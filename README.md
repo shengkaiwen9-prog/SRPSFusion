@@ -9,7 +9,6 @@ This repository provides the PyTorch implementation of SRPSFusion. It combines i
 - Python 3.10.14
 - PyTorch 2.3.1 and torchvision 0.18.1
 - CUDA 12.1
-- NumPy, Pillow, tqdm, natsort, pandas, matplotlib, timm, ptflops, and kornia
 
 ## Training
 
