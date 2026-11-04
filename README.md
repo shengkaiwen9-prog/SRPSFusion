@@ -29,3 +29,5 @@ python test_SR.py
 ```
 
 Fused images are saved under `fusion_results/MSRS/`. The included `sr_pretrain.pth` contains SR weights and is not a fusion-model checkpoint.
+
+
